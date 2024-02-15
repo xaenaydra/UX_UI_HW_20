@@ -1,0 +1,52 @@
+/*Top Nav*/
+
+.navigation {
+    justify-content: space-between;
+    margin: 0px 16px;
+  }
+  
+  
+  .logo {
+    text-align: center;
+    float: left;
+    text-align: center;
+    padding: 1px;
+    display: block; 
+  }
+  
+  .name {
+    text-align: center;
+    padding: 14px 16px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  nav li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  
+  /* Body Style*/
+  
+  body {
+    font-family: Montserrat;
+    color: white;
+    text-align: left;
+    /*Background*/
+    background: #2d2d2d;
+  }
